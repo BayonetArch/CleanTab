@@ -1,0 +1,10 @@
+{
+  "name": "Clean Tab",
+  "version": "1.0.0",
+  "description": "A calm Rose Pine new tab with a live clock and a softly blurred wallpaper.",
+  "manifest_version": 3,
+  "permissions": [],
+  "chrome_url_overrides": {
+    "newtab": "start.html"
+  }
+}
