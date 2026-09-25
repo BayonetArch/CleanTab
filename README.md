@@ -11,7 +11,7 @@ network requests, analytics, accounts, or external JavaScript.
 
 ![Clean Tab preview](assets/example.png)
 
-[> [!NOTE]
+> [!NOTE]
 > this wallpaper was taken from [Rose Pine Repo](https://github.com/rose-pine/wallpapers)
 
 ## Load it unpacked in Chrome
