@@ -6,16 +6,13 @@ with a Rose Pine-themed live clock, date, and softly blurred wallpaper.
 The extension is entirely local. It has no permissions, background worker,
 network requests, analytics, accounts, or external JavaScript.
 
-## Files
-
-- `manifest.json` — Manifest V3 configuration and New Tab override.
-- `start.html` — New Tab page markup and styling.
-- `clock.js` — Local clock and date updates.
-- `assets/earrings.jpg` — Wallpaper bundled with the extension.
 
 ## Preview
 
 ![Clean Tab preview](assets/example.png)
+
+[> [!NOTE]
+> this wallpaper was taken from [Rose Pine Repo](https://github.com/rose-pine/wallpapers)
 
 ## Load it unpacked in Chrome
 
